@@ -1,0 +1,14 @@
+{
+  "pages": [
+    "pages/index/index"
+  ],
+  "window": {
+    "backgroundTextStyle": "dark",
+    "navigationBarBackgroundColor": "#212138",
+    "navigationBarTitleText": "SHOPSHOPS",
+    "navigationBarTextStyle": "black",
+    "navigationStyle": "custom"
+  },
+  "sitemapLocation": "sitemap.json",
+  "navigateToMiniProgramAppIdList":["wx3f0d8b1fe0abeb7a"]
+}
